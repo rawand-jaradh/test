@@ -1,0 +1,74 @@
+label{
+	font-family: Monospace;
+	font-size:25px;
+	padding-top:100%;
+	text-align: center;
+	color:#f00;
+	margin-left: 42%;
+	font-weight: bold;
+}
+form select{
+		font-family: Monospace;
+		font-family: Monospace;
+	font-size:15px;
+	margin-top:7%;
+	text-align: center;
+	color:#f00;
+	margin-left: 120%;
+	font-weight: bold;
+}
+form input{
+	font-family: Monospace;
+		font-family: Monospace;
+	font-size:15px;
+	margin-top:7%;
+	text-align: center;
+	color:#f00;
+	margin-left: 165%;
+	font-weight: bold;
+}
+.result{
+	background-color: #696969;
+	text-align: center;
+	height: 600px;
+	width: 50%;
+	margin-left:21%;
+}
+
+h3{
+
+	padding-top: 9%;
+	color: #f00;
+	font-size: 25px;
+	font-family: Monospace;
+	font-weight: bold;
+}
+.result a{
+	font-family: Monospace;
+	font-size: 22px;
+	color: #fff;
+	text-decoration: none;
+
+
+}
+.result a span{
+	text-decoration:underline;
+	color:#000;
+}
+h1{
+	padding-top: 3%;
+	color: #f00;
+	font-size: 25px;
+	font-family: Monospace;
+	font-weight: bold;
+	margin-left: 42%
+}
+h4{
+	color: #696969;
+		font-size: 25px;
+	font-family: Monospace;
+	font-weight: bold;
+}
+h4 span{
+	color:#000;
+}
